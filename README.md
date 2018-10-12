@@ -1,2 +1,2 @@
-# postgresql-administrator
+# Postgresql Administrator
 PostgreSQL Administration Client
